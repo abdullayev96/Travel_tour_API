@@ -1,0 +1,11 @@
+1.django-admin makemessages -l en
+processing locale en
+2.django-admin makemessages -l tu
+processing locale tu
+3. django-admin compilemessages    ---- make
+##not_travel
+###019283
+
+
+
+
